@@ -19,3 +19,5 @@ Run the following command with the ESLint CLI. It uses ```eslint-config.json``` 
 ```
 eslint ../repository --no-eslintrc --config 'eslint-config.json' --format json --output-file out.json
 ```
+
+**Change the selected ESLint rule per metric analysis to avoid confusing the different outputs per metrics for further analysis**
