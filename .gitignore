@@ -1,4 +1,3 @@
 /[Rr]epository/
 **/.idea/
-**/data/*.csv
-**/data/*.json
+.Rproj.user
