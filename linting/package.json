@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "eslint-plugin-bookkeeping-metrics": "file:eslint-plugin-bookkeeping-metrics",
+    "eslint-plugin-lcom": "^1.0.0"
+  }
+}

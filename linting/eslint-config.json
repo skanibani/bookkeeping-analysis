@@ -15,10 +15,10 @@
         "cpp-api-client/"
     ],
     "plugins": [
-        "eslint-plugin-bookkeeping-metrics"
+        "bookkeeping-metrics",
+        "lcom"
     ],
     "rules": {
-        "bookkeeping-metrics/coupling":"error",
-        "bookkeeping-metrics/lcom4":"error"
+        "lcom/lcom4": "warn"
     }
 }

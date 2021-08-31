@@ -1,0 +1,3905 @@
+[
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/application.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/config/database.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/config/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/config/jwt.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/config/openid.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/AttachmentAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/FlpAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/FlpRunsAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/LogAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/LogRunsAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/LogTagsAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/RunAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/SubsystemAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/TagAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/UserAdapter.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/adapters/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/index.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 2. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 24,
+                "column": 1,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 181,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nconst cls = require('cls-hooked');\nconst path = require('path');\nconst { Sequelize } = require('sequelize');\nconst Umzug = require('umzug');\nconst { DatabaseConfig } = require('../config');\nconst { Logger } = require('../utilities');\n\n/**\n * Sequelize implementation of the Database.\n */\nclass SequelizeDatabase {\n    /**\n     * Creates a new `Sequelize Database` instance.\n     */\n    constructor() {\n        this.logger = Logger('DATABASE');\n        this.namespace = cls.createNamespace('sequelize');\n        Sequelize.useCLS(this.namespace);\n\n        this.sequelize = new Sequelize(DatabaseConfig.database, DatabaseConfig.username, DatabaseConfig.password, {\n            host: DatabaseConfig.host,\n            port: DatabaseConfig.port,\n            dialect: DatabaseConfig.dialect,\n            dialectOptions: DatabaseConfig.dialectOptions,\n            logging: DatabaseConfig.logging ? this.logger.debug.bind(this.logger) : NaN,\n            define: {\n                underscored: true,\n            },\n        });\n    }\n\n    /**\n     * Returns all available models.\n     */\n    get models() {\n        return require('./models')(this.sequelize);\n    }\n\n    /**\n     * Returns all available repositories.\n     */\n    get repositories() {\n        return require('./repositories');\n    }\n\n    /**\n     * Returns all available tables.\n     */\n    get tables() {\n        return require('./tables')(this.sequelize);\n    }\n\n    /**\n     * Returns all available utilities.\n     */\n    get utilities() {\n        return require('./utilities')(this.sequelize);\n    }\n\n    /**\n     * Performs connection to the database.\n     *\n     * @returns {Promise} Promise object represents the outcome.\n     */\n    async connect() {\n        this.logger.info('Starting...');\n\n        try {\n            await this.sequelize.authenticate();\n        } catch (error) {\n            this.logger.error(`Error while starting: ${error}`);\n            return Promise.reject(error);\n        }\n\n        this.logger.info('Started');\n    }\n\n    /**\n     * Performs disconnect to the database.\n     *\n     * @returns {Promise} Promise object represents the outcome.\n     */\n    async disconnect() {\n        this.logger.info('Stopping...');\n\n        try {\n            await this.sequelize.close();\n        } catch (error) {\n            this.logger.error(`Error while stopping: ${error}`);\n            return Promise.reject(error);\n        }\n\n        this.logger.info('Stopped');\n    }\n\n    /**\n     * Drops all tables.\n     *\n     * @returns {Promise} Promise object represents the outcome.\n     */\n    async dropAllTables() {\n        this.logger.warn('Dropping all tables!');\n\n        try {\n            await this.sequelize.getQueryInterface().dropAllTables();\n        } catch (error) {\n            this.logger.error(`Error while dropping all tables: ${error}`);\n            return Promise.reject(error);\n        }\n\n        this.logger.info('Dropped all tables!');\n    }\n\n    /**\n     * Executes every *pending* migrations.\n     *\n     * @returns {Promise} Promise object represents the outcome.\n     */\n    async migrate() {\n        this.logger.info('Executing pending migrations...');\n\n        try {\n            const umzug = new Umzug({\n                migrations: {\n                    params: [this.sequelize.getQueryInterface(), Sequelize],\n                    path: path.join(__dirname, 'migrations'),\n                },\n                storage: 'sequelize',\n                storageOptions: {\n                    sequelize: this.sequelize,\n                },\n            });\n\n            await umzug.up();\n        } catch (error) {\n            this.logger.error(`Error while executing migrations: ${error}`);\n            return Promise.reject(error);\n        }\n\n        this.logger.info('Executed pending migrations');\n    }\n\n    /**\n     * Executes every *pending* seed.\n     *\n     * @returns {Promise} Promise object represents the outcome.\n     */\n    async seed() {\n        this.logger.info('Executing seeders...');\n\n        try {\n            const umzug = new Umzug({\n                migrations: {\n                    params: [this.sequelize.getQueryInterface(), Sequelize],\n                    path: path.join(__dirname, 'seeders'),\n                },\n                storage: 'none',\n            });\n\n            await umzug.up();\n        } catch (error) {\n            this.logger.error(`Error while executing seeders: ${error}`);\n            return Promise.reject(error);\n        }\n\n        this.logger.info('Executed seeders');\n    }\n}\n\nmodule.exports = new SequelizeDatabase();\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200505195925-create-log.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200505205233-create-user.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200505214213-create-run.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200506003500-create-tag.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200506004950-create-flp-roles.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200506093229-create-epn-role-session.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200507202304-create-log-runs.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200507230653-create-log-tags.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200508115356-add-associations.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200508120618-create-run_tags.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200508154634-log-indexes.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200511132541-log-tags-relation.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200511132542-log-runs-relation.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200525101348-create-subsystem.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200525135006-log-subsystems-relation.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200621102228-user.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200623201423-create-attachment.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200623201424-attachment-indexes.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200724114841-add-run-number.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200914120527-logs-remove-user-constraint.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20200921180609-add-flp-readout-bytes.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20201021084028-create-flp-runs.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20201021084436-flp-runs-relation.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/migrations/20201121200636-run-tags-relation.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/attachment.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/epnrolesession.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/flprole.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/log.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/run.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/subsystem.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/tag.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/models/user.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/AttachmentRepository.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/FlpRepository.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 2. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 27,
+                "column": 1,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 74,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nconst {\n    models: {\n        FlpRoles,\n    },\n    utilities: {\n        QueryBuilder,\n    },\n} = require('../');\nconst Repository = require('./Repository');\n\n/**\n * Sequelize implementation of the FlpRepository.\n */\nclass FlpRepository extends Repository {\n    /**\n     * Creates a new `FlpRepository` instance.\n     */\n    constructor() {\n        super(FlpRoles);\n    }\n\n    /**\n     * Adds a count of root flp by their amount of children onto every applicable flp.\n     *\n     * @param {Array} rows The collection of rows already fetched\n     * @param {QueryBuilder} queryBuilder The QueryBuilder to use.\n     * @returns {Promise} Promise object representing the full mock data\n     */\n    async addChildrenCountByRootFlp(rows, queryBuilder = new QueryBuilder()) {\n        const rootFlpIds = [...new Set(rows.map((row) => row.rootFlpId))];\n        queryBuilder\n            .where('rootFlpId').oneOf(...rootFlpIds)\n            .set('group', ['rootFlpId']);\n\n        const replies = await this.count(queryBuilder);\n        replies.forEach(({ rootFlpId, count }) => {\n            const rowToAttachTo = rows.find(({ id }) => id === rootFlpId);\n            if (rowToAttachTo) {\n                rowToAttachTo.replies = count;\n            }\n        });\n\n        return rows;\n    }\n\n    /**\n     * Returns all entities.\n     *\n     * @param {Object} runId The QueryBuilder to use.\n     * @param {QueryBuilder} queryBuilder The QueryBuilder to use.\n     * @returns {Promise} Promise object representing the full mock data\n     */\n    async findAllByRunId(runId, queryBuilder = new QueryBuilder()) {\n        queryBuilder\n            .setModel(FlpRoles)\n            .include('runs')\n            .whereAssociation('runs', 'id').is(runId);\n\n        return this.findAll(queryBuilder);\n    }\n}\n\nmodule.exports = new FlpRepository();\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/FlpRunNumberRepository.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/LogRepository.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 2. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 27,
+                "column": 1,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 92,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nconst {\n    models: {\n        Log,\n    },\n    utilities: {\n        QueryBuilder,\n    },\n} = require('../');\nconst Repository = require('./Repository');\n\n/**\n * Sequelize implementation of the LogRepository.\n */\nclass LogRepository extends Repository {\n    /**\n     * Creates a new `LogRepository` instance.\n     */\n    constructor() {\n        super(Log);\n    }\n\n    /**\n     * Adds a count of root log by their amount of children onto every applicable log.\n     *\n     * @param {Array} rows The collection of rows already fetched\n     * @param {QueryBuilder} queryBuilder The QueryBuilder to use.\n     * @returns {Promise} Promise object representing the full mock data\n     */\n    async addChildrenCountByRootLog(rows, queryBuilder = new QueryBuilder()) {\n        const rootLogIds = [...new Set(rows.map((row) => row.rootLogId))];\n        queryBuilder\n            .where('rootLogId').oneOf(...rootLogIds)\n            .set('group', ['rootLogId']);\n\n        const replies = await this.count(queryBuilder);\n        replies.forEach(({ rootLogId, count }) => {\n            const rowToAttachTo = rows.find(({ id }) => id === rootLogId);\n            if (rowToAttachTo) {\n                rowToAttachTo.replies = count;\n            }\n        });\n\n        return rows;\n    }\n\n    /**\n     * Returns all entities.\n     *\n     * @param {Object} runId The QueryBuilder to use.\n     * @param {QueryBuilder} queryBuilder The QueryBuilder to use.\n     * @returns {Promise} Promise object representing the full mock data\n     */\n    async findAllByRunId(runId, queryBuilder = new QueryBuilder()) {\n        queryBuilder\n            .setModel(Log)\n            .include('user')\n            .include('tags')\n            .whereAssociation('runs', 'id').is(runId);\n\n        return this.findAll(queryBuilder);\n    }\n\n    /**\n     * Returns all entities.\n     *\n     * @param {Object} subsystemId The QueryBuilder to use.\n     * @param {QueryBuilder} queryBuilder The QueryBuilder to use.\n     * @returns {Promise} Promise object representing the full mock data\n     */\n    async findAllBySubsystemId(subsystemId, queryBuilder = new QueryBuilder()) {\n        queryBuilder\n            .setModel(Log)\n            .include('user')\n            .include('tags')\n            .whereAssociation('subsystems', 'id').is(subsystemId);\n\n        return this.findAll(queryBuilder);\n    }\n}\n\nmodule.exports = new LogRepository();\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/LogRunNumberRepository.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/LogRunsRepository.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 2. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 28,
+                "column": 1,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 67,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nconst { LogRunsAdapter } = require('../adapters');\nconst {\n    tables: {\n        LogRuns,\n    },\n    utilities: {\n        QueryBuilder,\n    },\n} = require('..');\nconst Repository = require('./Repository');\n\n/**\n * Sequelize implementation of the LogTagsRepository.\n */\nclass LogRunsRepository extends Repository {\n    /**\n     * Creates a new `LogTagsRepository` instance.\n     */\n    constructor() {\n        super(LogRuns);\n    }\n\n    /**\n     * Returns log tag rows by grouping them by log id\n     *\n     * @param {QueryBuilder} queryBuilder The QueryBuilder to use.\n     * @returns {Promise} Promise object representing the full data\n     */\n    async findAllAndGroup(queryBuilder = new QueryBuilder()) {\n        const result = await this.findAll(queryBuilder);\n\n        const groupedResult = result.reduce((accumulator, currentValue) => {\n            if (accumulator[currentValue.logId]) {\n                accumulator[currentValue.logId].push(currentValue.runId);\n            } else {\n                accumulator[currentValue.logId] = [currentValue.runId];\n            }\n            return accumulator;\n        }, {});\n\n        return Object.entries(groupedResult).map(([key, value]) => ({ logId: key, runIds: value }));\n    }\n\n    /**\n     * Bulk insert entities.\n     *\n     * @param {Array} entities List of entities to insert.\n     * @returns {Promise} Promise object represents the recently inserted LogTags.\n     */\n    async bulkInsert(entities) {\n        const results = await LogRuns.bulkCreate(entities.map(LogRunsAdapter.toDatabase), { returning: true });\n        return results.map(LogRunsAdapter.toEntity);\n    }\n}\n\nmodule.exports = new LogRunsRepository();\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/LogTagsRepository.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 2. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 28,
+                "column": 1,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 67,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nconst { LogTagsAdapter } = require('../adapters');\nconst {\n    tables: {\n        LogTags,\n    },\n    utilities: {\n        QueryBuilder,\n    },\n} = require('..');\nconst Repository = require('./Repository');\n\n/**\n * Sequelize implementation of the LogTagsRepository.\n */\nclass LogTagsRepository extends Repository {\n    /**\n     * Creates a new `LogTagsRepository` instance.\n     */\n    constructor() {\n        super(LogTags);\n    }\n\n    /**\n     * Returns log tag rows by grouping them by log id\n     *\n     * @param {QueryBuilder} queryBuilder The QueryBuilder to use.\n     * @returns {Promise} Promise object representing the full data\n     */\n    async findAllAndGroup(queryBuilder = new QueryBuilder()) {\n        const result = await this.findAll(queryBuilder);\n\n        const groupedResult = result.reduce((accumulator, currentValue) => {\n            if (accumulator[currentValue.logId]) {\n                accumulator[currentValue.logId].push(currentValue.tagId);\n            } else {\n                accumulator[currentValue.logId] = [currentValue.tagId];\n            }\n            return accumulator;\n        }, {});\n\n        return Object.entries(groupedResult).map(([key, value]) => ({ logId: key, tagIds: value }));\n    }\n\n    /**\n     * Bulk insert entities.\n     *\n     * @param {Array} entities List of entities to insert.\n     * @returns {Promise} Promise object represents the recently inserted LogTags.\n     */\n    async bulkInsert(entities) {\n        const results = await LogTags.bulkCreate(entities.map(LogTagsAdapter.toDatabase), { returning: true });\n        return results.map(LogTagsAdapter.toEntity);\n    }\n}\n\nmodule.exports = new LogTagsRepository();\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/Repository.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/RunRepository.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/RunTagsRepository.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 2. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 24,
+                "column": 1,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 49,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nconst {\n    tables: {\n        RunTags,\n    },\n} = require('..');\nconst Repository = require('./Repository');\n\n/**\n * Sequelize implementation of the RunTagsRepository.\n */\nclass RunTagsRepository extends Repository {\n    /**\n     * Creates a new `RunTagsRepository` instance.\n     */\n    constructor() {\n        super(RunTags);\n    }\n\n    /**\n     * Remove all tags & runs relations by run id\n     * @param {number} runId  - run ID to delete tags for\n     * @return {Promise<void>} - delete result\n     */\n    async removeById(runId) {\n        return await RunTags.sequelize.getQueryInterface().bulkDelete('run_tags', { run_id: runId });\n    }\n\n    /**\n     * Update run tags by runNumber\n     * @param {Array} entities - Tags & runId to associate\n     * @return {*} Result of updating\n     */\n    async updateMany(entities) {\n        return await RunTags.bulkCreate(entities, { returning: true });\n    }\n}\n\nmodule.exports = new RunTagsRepository();\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/SubsystemRepository.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/TagRepository.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/UserRepository.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/repositories/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200426144121-users.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200508094502-logs.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200511151010-tags.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200511151016-log-tags.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200606151010-subsystems.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200606301010-log-subsystems.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200713103855-runs.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200731155608-log-runs.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20200921181553-flps.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/seeders/20201021083549-flp-runs.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/tables/flpruns.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/tables/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/tables/logruns.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/tables/logtags.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/tables/runtags.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/utilities/QueryBuilder.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 4. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 252,
+                "column": 5,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 367,
+                "endColumn": 6
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nmodule.exports = (sequelize) => {\n    const { Op } = require('sequelize');\n\n    /**\n     * Sequelize implementation of the WhereQueryBuilder.\n     */\n    class WhereQueryBuilder {\n        /**\n         * Creates a new `WhereQueryBuilder` instance.\n         *\n         * @param {QueryBuilder} queryBuilder The include expression.\n         * @param {String} column The target column.\n         */\n        constructor(queryBuilder, column) {\n            this.queryBuilder = queryBuilder;\n            this.column = column;\n\n            this.notFlag = false;\n        }\n\n        /**\n         * Sets an exact match filter using the provided value.\n         *\n         * @param {*} value The required value.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        is(value) {\n            let operation;\n\n            if (this.notFlag) {\n                operation = { [Op.ne]: value };\n            } else {\n                operation = { [Op.eq]: value };\n            }\n\n            return this._op(operation);\n        }\n\n        /**\n         * Sets an **AND** match filter using the provided values.\n         *\n         * @param  {...any} values The required values.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        allOf(...values) {\n            let operation;\n\n            if (this.notFlag) {\n                operation = { [Op.notIn]: values };\n            } else {\n                operation = { [Op.and]: values };\n            }\n\n            return this._op(operation);\n        }\n\n        /**\n         * Sets an **OR** match filter using the provided values.\n         *\n         * @param  {...any} values The required values.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        oneOf(...values) {\n            let operation;\n\n            if (this.notFlag) {\n                operation = { [Op.notIn]: values };\n            } else {\n                operation = { [Op.in]: values };\n            }\n\n            return this._op(operation);\n        }\n\n        /**\n         * Sets an range match filter using the provided values, note that this is an **inclusive** filter.\n         *\n         * @param {*} start The start value.\n         * @param {*} end The end value.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        between(start, end) {\n            let operation;\n\n            if (this.notFlag) {\n                operation = { [Op.notBetween]: [start, end] };\n            } else {\n                operation = { [Op.between]: [start, end] };\n            }\n\n            return this._op(operation);\n        }\n\n        /**\n         * Sets the **NOT** flag to `true` for the next filter condition.\n         *\n         * @returns {WhereQueryBuilder} The current WhereQueryBuilder instance.\n         */\n        not() {\n            this.notFlag = true;\n            return this;\n        }\n\n        /**\n         * Sets a starts with filter using the provided value.\n         *\n         * @param {symbol} value The start value.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        startsWith(value) {\n            if (!this.queryBuilder.options.where) {\n                this.queryBuilder.options.where = {};\n            }\n\n            if (this.notFlag) {\n                this.queryBuilder.options.where[this.column] = {\n                    [Op.notLike]: `${value}%`,\n                };\n            } else {\n                this.queryBuilder.options.where[this.column] = {\n                    [Op.startsWith]: value,\n                };\n            }\n\n            return this.queryBuilder;\n        }\n\n        /**\n         * Sets a ends with filter using the provided value.\n         *\n         * @param {symbol} value The end value.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        endsWith(value) {\n            if (!this.queryBuilder.options.where) {\n                this.queryBuilder.options.where = {};\n            }\n\n            if (this.notFlag) {\n                this.queryBuilder.options.where[this.column] = {\n                    [Op.notLike]: `%${value}`,\n                };\n            } else {\n                this.queryBuilder.options.where[this.column] = {\n                    [Op.endsWith]: value,\n                };\n            }\n\n            return this.queryBuilder;\n        }\n\n        /**\n         * Sets a substring filter using the provided value.\n         *\n         * @param {symbol} value The required value.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        substring(value) {\n            if (!this.queryBuilder.options.where) {\n                this.queryBuilder.options.where = {};\n            }\n\n            if (this.notFlag) {\n                this.queryBuilder.options.where[this.column] = {\n                    [Op.notLike]: `%${value}%`,\n                };\n            } else {\n                this.queryBuilder.options.where[this.column] = {\n                    [Op.substring]: value,\n                };\n            }\n\n            return this.queryBuilder;\n        }\n\n        /**\n         * Sets the operation.\n         *\n         * @param {Object} operation The Sequelize operation to use as where filter.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        _op(operation) {\n            if (!this.queryBuilder.options.where) {\n                this.queryBuilder.options.where = {};\n            }\n\n            this.queryBuilder.options.where[this.column] = operation;\n\n            return this.queryBuilder;\n        }\n    }\n\n    /**\n     * Sequelize implementation of the WhereAssociationQueryBuilder.\n     */\n    class WhereAssociationQueryBuilder extends WhereQueryBuilder {\n        /**\n         * Creates a new `WhereQueryBuilder` instance.\n         *\n         * @param {QueryBuilder} queryBuilder The include expression.\n         * @param {String} association The target association.\n         * @param {String} column The target column.\n         */\n        constructor(queryBuilder, association, column) {\n            super();\n\n            this.queryBuilder = queryBuilder;\n            this.association = association;\n            this.column = column;\n\n            this.associationName = this.queryBuilder.model.associations[this.association].toTarget.as;\n        }\n\n        /**\n         * Sets the operation.\n         *\n         * @param {Object} operation The Sequelize operation to use as where filter.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        _op(operation) {\n            this.queryBuilder.include({\n                model: sequelize.models[this.associationName],\n                as: this.association,\n                required: true,\n                through: {\n                    where: {\n                        [`${this.associationName}_${this.column}`]: operation,\n                    },\n                },\n            });\n\n            return this.queryBuilder;\n        }\n    }\n\n    /**\n     * Sequelize implementation of the QueryBuilder.\n     */\n    class QueryBuilder {\n        /**\n         * Creates a new `QueryBuilder` instance.\n         */\n        constructor() {\n            this.options = {};\n        }\n\n        /**\n         * The numbers of items to return.\n         *\n         * @param {*} expression The include expression.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        include(expression) {\n            if (!this.options.include) {\n                this.options.include = [];\n            }\n\n            this.options.include.push(expression);\n            return this;\n        }\n\n        /**\n         * The numbers of items to return.\n         *\n         * @param {Number} number The numbers of items to return.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        limit(number) {\n            this.options.limit = number;\n            return this;\n        }\n\n        /**\n         * The number of items to skip before starting to collect the result set.\n         *\n         * @param {Number} number  The number of items to skip.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        offset(number) {\n            this.options.offset = number;\n            return this;\n        }\n\n        /**\n         * Set the order of elements.\n         *\n         * @param {String} column The column to order by.\n         * @param {String} direction The direction to order by.\n         * @param {String} table Optional associated table to perform ordering operation on.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        orderBy(column, direction, table = null) {\n            if (!this.options.order) {\n                this.options.order = [];\n            }\n\n            this.options.order.push(table ? [table, column, direction] : [column, direction]);\n            return this;\n        }\n\n        /**\n         * Generic Key-Value pair setter.\n         *\n         * @param {*} key The key to set.\n         * @param {*} value The value of the key.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        set(key, value) {\n            this.options[key] = value;\n            return this;\n        }\n\n        /**\n         * Sets the Sequelize model.\n         *\n         * @param {*} model The Sequelize model to reference.\n         * @returns {QueryBuilder} The current QueryBuilder instance.\n         */\n        setModel(model) {\n            this.model = model;\n            return this;\n        }\n\n        /**\n         * Returns the implementation specific query.\n         *\n         * @returns {Object} Implementation specific query.\n         */\n        toImplementation() {\n            return this.options;\n        }\n\n        /**\n         * Adds a filter on the given column.\n         *\n         * @param {String} column The target column.\n         * @returns {WhereQueryBuilder} The WhereQueryBuilder instance.\n         */\n        where(column) {\n            return new WhereQueryBuilder(this, column);\n        }\n\n        /**\n         * Adds a filter on the given association with a column value pair.\n         *\n         * @param {String} association The target association.\n         * @param {String} column The target column.\n         * @param {*} value The required value.\n         * @returns {WhereAssociationQueryBuilder} The current QueryBuilder instance.\n         */\n        whereAssociation(association, column) {\n            return new WhereAssociationQueryBuilder(this, association, column);\n        }\n    }\n\n    return QueryBuilder;\n};\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/utilities/TransactionHelper.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/database/utilities/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/CreateAttachmentDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/CreateFlpDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/CreateLogDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/CreateSubsystemDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/CreateTagDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/EndRunDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/EntityIdDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/FileDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetAllFlpsDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetAllLogAttachmentsDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetAllLogsDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetAllRunsDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetAllSubsystemsDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetAllTagsDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetAttachmentDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetFlpDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetLogAttachmentDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetLogDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetRunDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetSubsystemDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/GetTagDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/PaginationDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/StartRunDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/UpdateFlpDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/UpdateRunTagsDto.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/dtos/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/domain/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/main.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/presentation/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/presentation/log/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/presentation/log/toTreeView.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/Model.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 2. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 26,
+                "column": 16,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 216,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nimport { Loader, Observable, QueryRouter, sessionService } from '/js/src/index.js';\n\nimport Logs from './views/Logs/Logs.js';\nimport Tags from './views/Tags/Tags.js';\nimport Runs from './views/Runs/Runs.js';\nimport Subsystems from './views/Subsystems/Subsystems.js';\nimport Flps from './views/Flps/Flps.js';\n\n/**\n * Root of model tree\n * Handle global events: keyboard, websocket and router location change\n */\nexport default class Model extends Observable {\n    /**\n     * Load all sub-models and bind event handlers\n     * @param {Object} HyperMD The hyperMD object passed from HTML code\n     * @param {Object} window The window object from the HTML\n     * @param {Object} document The document object\n     * @param {Object} CompleteEmoji The CompleteEmoji object passed from HTML code\n     */\n    constructor(HyperMD, window, document, CompleteEmoji) {\n        super();\n        // Bind HyperMD, window and document\n        this.HyperMD = HyperMD;\n        this.document = document;\n        this.window = window;\n        this.CompleteEmoji = CompleteEmoji;\n\n        // Bind session\n        this.session = sessionService.get();\n        this.session.personid = parseInt(this.session.personid, 10);\n\n        // Bind models\n        this.loader = new Loader(this);\n        this.loader.bubbleTo(this);\n\n        this.logs = new Logs(this);\n        this.logs.bubbleTo(this);\n\n        this.runs = new Runs(this);\n        this.runs.bubbleTo(this);\n\n        this.subsystems = new Subsystems(this);\n        this.subsystems.bubbleTo(this);\n\n        this.tags = new Tags(this);\n        this.tags.bubbleTo(this);\n\n        this.flps = new Flps(this);\n        this.flps.bubbleTo(this);\n\n        // Setup router\n        this.router = new QueryRouter();\n        this.router.observe(this.handleLocationChange.bind(this));\n        this.router.bubbleTo(this);\n\n        // Init pages\n        this.handleLocationChange();\n        this.window.addEventListener('resize', () => this.notify());\n\n        // Navbar dropdown menus\n        this.dropdownMenu = false;\n\n        // Setup chunk size for Infinite scroll mode of overview pages\n        this.INFINITE_SCROLL_CHUNK_SIZE = 19;\n    }\n\n    /**\n     * Delegates sub-model actions depending on new location of the page\n     * @returns {vnode} The page to be loaded\n     */\n    async handleLocationChange() {\n        // Reset infinite scroll to prevent scroll listening on pages where it is disabled or not needed\n        window.onscroll = null;\n\n        switch (this.router.params.page) {\n            case 'home':\n                this.logs.fetchAllLogs();\n                this.runs.fetchAllRuns();\n                break;\n            case 'log-overview':\n                // Prevent loading extra rows when it's not necessary\n                if (!this.logs.isInfiniteScrollEnabled()) {\n                    this.logs.fetchAllLogs();\n                    this.tags.fetchAllTags();\n                    this.runs.fetchAllRuns();\n                }\n                break;\n            case 'log-detail':\n                this.logs.fetchOneLog(this.router.params.id);\n                this.logs.infiniteScrollEnabled = false;\n                break;\n            case 'log-create':\n                this.logs.setMarkdownBox('text', { location: 'logs', name: 'setText' });\n                this.tags.fetchAllTags();\n                break;\n            case 'run-overview':\n                // Prevent loading extra rows when it's not necessary\n                if (!this.runs.isInfiniteScrollEnabled()) {\n                    this.runs.fetchAllRuns();\n                }\n                break;\n            case 'run-detail':\n                if (this.router.params.panel) {\n                    await this.runs.fetchOneRun(this.router.params.id);\n                    await this.tags.fetchAllTags();\n                    switch (this.router.params.panel) {\n                        case 'logs':\n                            await this.runs.fetchLogsOfRun(this.router.params.id);\n                            break;\n                        case 'flps':\n                            await this.runs.fetchFlpsOfRun(this.router.params.id);\n                            break;\n                        default:\n                            break;\n                    }\n                }\n                break;\n            case 'run-export':\n                this.runs.fetchAllRuns();\n                break;\n            case 'tag-overview':\n                if (!this.runs.isInfiniteScrollEnabled()) {\n                    this.tags.fetchAllTags();\n                }\n                break;\n            case 'tag-detail':\n                if (this.router.params.panel) {\n                    await this.tags.fetchOneTag(this.router.params.id);\n                    switch (this.router.params.panel) {\n                        case 'logs':\n                            await this.tags.fetchLogsOfTag(this.router.params.id);\n                            break;\n                        default:\n                            break;\n                    }\n                }\n                break;\n            case 'tag-create':\n                break;\n            case 'subsystem-overview':\n                this.subsystems.fetchAllSubsystems();\n                break;\n            case 'subsystem-detail':\n                if (this.router.params.panel) {\n                    this.subsystems.fetchOneSubsystem(this.router.params.id);\n                    switch (this.router.params.panel) {\n                        case 'logs':\n                            this.subsystems.fetchLogsOfSubsystem(this.router.params.id);\n                            break;\n                        default:\n                            break;\n                    }\n                }\n                break;\n            case 'create-tag':\n                break;\n            case 'flp-overview':\n                // Prevent loading extra rows when it's not necessary\n                if (!this.flps.isInfiniteScrollEnabled()) {\n                    this.flps.fetchAllFlps();\n                }\n                break;\n            case 'flp-detail':\n                if (this.router.params.panel) {\n                    this.flps.fetchOneFlp(this.router.params.id);\n                }\n                break;\n            case 'about-overview':\n                break;\n            default:\n                this.router.go('?page=home');\n                break;\n        }\n    }\n\n    /**\n     * Toggle navbar overview dropdown\n     * @returns {undefined}\n     */\n    toggleOverviewDropdown() {\n        this.dropdownMenu = this.dropdownMenu === 'overview' ? false : 'overview';\n        this.notify();\n    }\n\n    /**\n     * Toggle navbar account dropdown\n     * @returns {undefined}\n     */\n    toggleAccountDropdown() {\n        this.dropdownMenu = this.dropdownMenu === 'account' ? false : 'account';\n        this.notify();\n    }\n\n    /**\n     * Clears all navbar dropdowns\n     * @returns {undefined}\n     */\n    clearDropdownMenu() {\n        this.dropdownMenu = false;\n        this.notify();\n    }\n}\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/HyperMD/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/HyperMD/powerpack/fold-emoji-with-emojione.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/HyperMD/powerpack/fold-math-with-mathjax.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/HyperMD/powerpack/hover-with-marked.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/HyperMD/powerpack/insert-file-with-smms.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/HyperMD/powerpack/paste-with-turndown.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/addon/fold/foldcode.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/addon/fold/foldgutter.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/addon/fold/markdown-fold.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/addon/mode/overlay.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/lib/codemirror.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/mode/javascript/javascript.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/mode/markdown/markdown.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/mode/meta.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/mode/stex/stex.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/mode/xml/xml.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/codemirror/mode/yaml/yaml.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/emojione/extras/js/complete-emoji.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/emojione/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/marked/lib/marked.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/show-hint/show-hint.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/turndown-plugin-gfm/turndown-plugin-gfm.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/assets/SmartEditor/turndown/turndown.min.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Filters/FlpsFilter/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Filters/LogsFilter/author.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Filters/LogsFilter/created.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Filters/LogsFilter/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Filters/LogsFilter/runs.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Filters/LogsFilter/tags.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Filters/LogsFilter/title.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Filters/RunsFilter/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/FlpRun/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/NavBar/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Pagination/amountSelector.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Pagination/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Pagination/pageSelector.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Post/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/PostCollapsed/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/RunDetail/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Table/headers.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Table/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/Table/rows.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/common/errorAlert.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/common/markdown.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/components/common/spinner.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/utilities/export.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/utilities/pick.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/utilities/removeElement.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/utilities/scrollTo.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/utilities/targetURL.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/view.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/About/About.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/About/Overview/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Flps/ActiveColumns/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Flps/Details/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Flps/Flps.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 2. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 19,
+                "column": 16,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 243,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nimport { fetchClient, Observable, RemoteData } from '/js/src/index.js';\n\n/**\n * Model representing handlers for homePage.js\n */\nexport default class Overview extends Observable {\n    /**\n     * The constructor of the Overview model object\n     * @param {Object} model Pass the model to access the defined functions\n     * @returns {Object} Constructs the Overview model\n     */\n    constructor(model) {\n        super();\n        this.model = model;\n\n        this.clearFlp();\n        this.clearFlps();\n    }\n\n    /**\n     * Retrieve every relevant flp from the API\n     * @returns {undefined} Injects the data object with the response data\n     */\n    async fetchAllFlps() {\n        const params = {\n            'page[offset]': (this.selectedPage - 1) * this.flpsPerPage,\n            'page[limit]': this.flpsPerPage,\n        };\n\n        const endpoint = `/api/flps?${new URLSearchParams(params).toString()}`;\n        const response = await fetchClient(endpoint, { method: 'GET' });\n        const result = await response.json();\n\n        if (result.data) {\n            if (this.isInfiniteScrollEnabled()) {\n                const payload = this.flps && this.flps.payload ? [...this.flps.payload, ...result.data] : result.data;\n                this.flps = RemoteData.success(payload);\n            } else {\n                this.flps = RemoteData.success(result.data);\n            }\n\n            this.totalPages = result.meta.page.pageCount;\n        } else {\n            this.flps = RemoteData.failure(result.errors || [{ title: result.error, detail: result.message }]);\n        }\n\n        this.notify();\n    }\n\n    /**\n     * Retrieve a specified flp from the API\n     * @param {Number} id The ID of the flp to be found\n     * @returns {undefined} Injects the data object with the response data\n     */\n    async fetchOneFlp(id) {\n        this.flp = RemoteData.loading();\n        this.notify();\n\n        const response = await fetchClient(`/api/flps/${id}`, { method: 'GET' });\n        const result = await response.json();\n\n        if (result.data) {\n            this.flp = RemoteData.success(result.data);\n        } else {\n            this.flp = RemoteData.failure(result.errors || [{ title: result.error, detail: result.message }]);\n        }\n        this.notify();\n    }\n\n    /**\n     * Getter for a singular flp data\n     * @returns {RemoteData} Returns a flp\n     */\n    getFlp() {\n        return this.flp;\n    }\n\n    /**\n     * Getter for Logs data associated with a singular flp\n     * @returns {RemoteData} Returns the logs of a flp\n     */\n    getLogsOfFlp() {\n        return this.logsOfFlp;\n    }\n\n    /**\n     * Getter for all the flp data\n     * @returns {RemoteData} Returns all of the filtered flps\n     */\n    getFlps() {\n        return this.flps;\n    }\n\n    /**\n     * Getter for visible flp dropdown\n     * @returns {Number} Returns if the dropdown for choosing an amount of flps should be visible\n     */\n    isAmountDropdownVisible() {\n        return this.amountDropdownVisible;\n    }\n\n    /**\n     * Getter for flps per page\n     * @returns {Number} Returns the number of flps to show on a single page\n     */\n    getFlpsPerPage() {\n        return this.flpsPerPage;\n    }\n\n    /**\n     * Getter for the currently selected page\n     * @returns {Number} The currently selected page\n     */\n    getSelectedPage() {\n        return this.selectedPage;\n    }\n\n    /**\n     * Getter for total pages\n     * @returns {Number} Returns the total amount of pages available for the page selector\n     */\n    getTotalPages() {\n        return this.totalPages;\n    }\n\n    /**\n     * Toggles the visibility of the menu within the flp amounts dropdown\n     * @return {Boolean} The new state of the amounts dropdown\n     */\n    toggleFlpsDropdownVisible() {\n        this.amountDropdownVisible = !this.amountDropdownVisible;\n        this.notify();\n    }\n\n    /**\n     * Sets how many flps are visible per a page, in accordance with the page selector\n     * @param {Number} amount The amount of flps that should be shown per page\n     * @return {Number} The first page of the new flps, totalling the amount set by the user\n     */\n    setFlpsPerPage(amount) {\n        if (this.flpsPerPage !== amount) {\n            if (amount === Infinity) {\n                this.infiniteScrollEnabled = true;\n                // Set step for incremental loading\n                this.flpsPerPage = 19;\n            } else {\n                this.infiniteScrollEnabled = false;\n                this.flpsPerPage = amount;\n            }\n            this.selectedPage = 1;\n            this.fetchAllFlps();\n        }\n\n        this.amountDropdownVisible = false;\n        this.notify();\n    }\n\n    /**\n     * Saves custom per page value\n     * @param {Number} amount The amount of flps that should be shown per page\n     * @see perPageAmountInputComponent\n     * @return {void}\n     */\n    setCustomPerPage(amount) {\n        this.customPerPage = amount;\n    }\n\n    /**\n     * Sets the page chosen through the page selector for usage in pagination, and re-fetches data based on this\n     * @param {Number} page The chosen page number\n     * @return {Number} The chosen page number\n     */\n    setSelectedPage(page) {\n        if (this.selectedPage !== page) {\n            this.selectedPage = page;\n            this.fetchAllFlps();\n            this.notify();\n        }\n    }\n\n    /**\n     * Sets all data related to a flp to their defaults.\n     * @returns {undefined}\n     */\n    clearFlp() {\n        this.flp = RemoteData.NotAsked();\n        this.logsOfFlp = RemoteData.NotAsked();\n    }\n\n    /**\n     * Sets all data related to the flps to their defaults.\n     * @returns {undefined}\n     */\n    clearFlps() {\n        this.flps = RemoteData.NotAsked();\n        this.collapsedColumns = [];\n        this.collapsableColumns = [];\n\n        this.expandedFilters = [];\n\n        this.amountDropdownVisible = false;\n        this.flpsPerPage = 10;\n        this.selectedPage = 1;\n        this.totalPages = 1;\n        this.infiniteScrollEnabled = false;\n\n        /**\n         * Value saved from perPageAmountInputComponent\n         * @see perPageAmountInputComponent\n         * @type {number}\n         */\n        this.customPerPage = 10;\n    }\n\n    /**\n     * Returns the state of table infinite scroll mode\n     * @return {boolean} The state of table infinite scroll mode\n     */\n    isInfiniteScrollEnabled() {\n        return this.infiniteScrollEnabled;\n    }\n\n    /**\n     * Checks if any filter value has been modified from their default (empty)\n     * @returns {Boolean} If any filter is active\n     */\n    isAnyFilterActive() {\n        return false;\n    }\n}\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Flps/Overview/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Home/Overview/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Logs/ActiveColumns/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Logs/Create/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Logs/Details/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Logs/Logs.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Logs/Overview/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Runs/ActiveColumns/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Runs/ActiveColumnsLogs/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Runs/Details/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Runs/Export/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Runs/Overview/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Runs/Runs.js",
+        "messages":
+        [
+            {
+                "ruleId": "lcom/lcom4",
+                "severity": 1,
+                "message": "LCOM value of a class is expected to be less than 2, but was 3. You can consider refactoring the class to split two or more clasees to keep the class high cohesive.",
+                "line": 21,
+                "column": 16,
+                "nodeType": "ClassDeclaration",
+                "messageId": "lcomOver",
+                "endLine": 526,
+                "endColumn": 2
+            }
+        ],
+        "errorCount": 0,
+        "warningCount": 1,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "source": "/**\n * @license\n * Copyright CERN and copyright holders of ALICE O2. This software is\n * distributed under the terms of the GNU General Public License v3 (GPL\n * Version 3), copied verbatim in the file \"COPYING\".\n *\n * See http://alice-o2.web.cern.ch/license for full licensing information.\n *\n * In applying this license CERN does not waive the privileges and immunities\n * granted to it by virtue of its status as an Intergovernmental Organization\n * or submit itself to any jurisdiction.\n */\n\nimport { fetchClient, Observable, RemoteData } from '/js/src/index.js';\nimport pick from '../../utilities/pick.js';\nimport { createCSVExport, createJSONExport } from '../../utilities/export.js';\n\n/**\n * Model representing handlers for runs page\n */\nexport default class Overview extends Observable {\n    /**\n     * The constructor of the Overview model object\n     * @param {Object} model Pass the model to access the defined functions\n     * @returns {Object} Constructs the Overview model\n     */\n    constructor(model) {\n        super();\n        this.model = model;\n\n        this.clearRun();\n        this.clearRuns();\n        this.clearAllEditors();\n    }\n\n    /**\n     * Retrieve every relevant run from the API\n     * @returns {undefined} Injects the data object with the response data\n     */\n    async fetchAllRuns() {\n        const params = {\n            'page[offset]': this.runs.payload && this.isInfiniteScrollEnabled() ?\n                this.runs.payload.length : (this.selectedPage - 1) * this.runsPerPage,\n            'page[limit]': this.isInfiniteScrollEnabled() ? this.model.INFINITE_SCROLL_CHUNK_SIZE : this.runsPerPage,\n        };\n\n        const endpoint = `/api/runs?${new URLSearchParams(params).toString()}`;\n        const response = await fetchClient(endpoint, { method: 'GET' });\n        const result = await response.json();\n\n        if (result.data) {\n            if (this.isInfiniteScrollEnabled()) {\n                const payload = this.runs && this.runs.payload ? [...this.runs.payload, ...result.data] : result.data;\n                this.runs = RemoteData.success(payload);\n            } else {\n                this.runs = RemoteData.success(result.data);\n            }\n\n            this.totalPages = result.meta.page.pageCount;\n        } else {\n            this.runs = RemoteData.failure(result.errors || [{ title: result.error, detail: result.message }]);\n        }\n\n        this.notify();\n    }\n\n    /**\n     * Retrieve a specified run from the API\n     * @param {Number} id The ID of the run to be found\n     * @returns {undefined} Injects the data object with the response data\n     */\n    async fetchOneRun(id) {\n        this.run = RemoteData.loading();\n        this.notify();\n\n        const response = await fetchClient(`/api/runs/${id}`, { method: 'GET' });\n        const result = await response.json();\n\n        if (result.data) {\n            this.run = RemoteData.success(result.data);\n            this.tags = this.run.payload.tags.map(({ id }) => id);\n        } else {\n            this.run = RemoteData.failure(result.errors || [\n                {\n                    title: result.error,\n                    detail: result.message,\n                },\n            ]);\n        }\n        this.notify();\n    }\n\n    /**\n     * Retrieve all associated logs for a specified run from the API\n     * @param {Number} id The ID of the run to be found\n     * @returns {undefined} Injects the data object with the response data\n     */\n    async fetchLogsOfRun(id) {\n        this.logsOfRun = RemoteData.loading();\n        this.notify();\n\n        const response = await fetchClient(`/api/runs/${id}/logs`, { method: 'GET' });\n        const result = await response.json();\n\n        if (result.data) {\n            this.logsOfRun = RemoteData.success(result.data);\n        } else {\n            this.logsOfRun = RemoteData.failure(result.errors || [\n                {\n                    title: result.error,\n                    detail: result.message,\n                },\n            ]);\n        }\n        this.notify();\n    }\n\n    /**\n     * Retrieve all associated logs for a specified run from the API\n     * @param {Number} id The ID of the run to be found\n     * @returns {undefined} Injects the data object with the response data\n     */\n    async fetchFlpsOfRun(id) {\n        this.flpsOfRun = RemoteData.loading();\n        this.notify();\n\n        const response = await fetchClient(`/api/runs/${id}/flps`, { method: 'GET' });\n        const result = await response.json();\n\n        if (result.data) {\n            this.flpsOfRun = RemoteData.success(result.data);\n        } else {\n            this.flpsOfRun = RemoteData.failure(result.errors || [\n                {\n                    title: result.error,\n                    detail: result.message,\n                },\n            ]);\n        }\n        this.notify();\n    }\n\n    /**\n     * Filter runs based on the selected run numbers and fields to prepare it for export\n     * @param {Object} runs The runs data\n     * @returns {Object} The Filtered runs data\n     */\n    async getFilteredRuns(runs) {\n        const selectedRuns = runs.filter((run) => this.getSelectedRunNumbers().includes(run.runNumber));\n        const filteredRuns = selectedRuns.map((selectedRun) => pick(selectedRun, this.getSelectedRunsFields()));\n        return filteredRuns;\n    }\n\n    /**\n     * Create the export with the variables set in the model, handling errors appropriately\n     * @param {Object} content The source content.\n     * @param {String} fileName The name of the file including the output format.\n     * @return {void}\n     */\n    async createRunsExport(content, fileName) {\n        this.getSelectedExportType() == 'CSV' ?\n            createCSVExport(content, `${fileName}.csv`, 'text/csv;charset=utf-8;')\n            : createJSONExport(content, `${fileName}.json`, 'application/json');\n    }\n\n    /**\n     * Getter for a singular run data\n     * @returns {RemoteData} Returns a run\n     */\n    getRun() {\n        return this.run;\n    }\n\n    /**\n     * Getter for Logs data associated with a singular run\n     * @returns {RemoteData} Returns the logs of a run\n     */\n    getLogsOfRun() {\n        return this.logsOfRun;\n    }\n\n    /**\n     * Getter for Logs data associated with a singular run\n     * @returns {RemoteData} Returns the logs of a run\n     */\n    getFlpsOfRun() {\n        return this.flpsOfRun;\n    }\n\n    /**\n     * Getter for all the run data\n     * @returns {RemoteData} Returns all of the filtered runs\n     */\n    getRuns() {\n        return this.runs;\n    }\n\n    /**\n     * Getter for visible run dropdown\n     * @returns {Number} Returns if the dropdown for choosing an amount of runs should be visible\n     */\n    isAmountDropdownVisible() {\n        return this.amountDropdownVisible;\n    }\n\n    /**\n     * Getter for runs per page\n     * @returns {Number} Returns the number of runs to show on a single page\n     */\n    getRunsPerPage() {\n        return this.runsPerPage;\n    }\n\n    /**\n     * Getter for run numbers\n     * @returns {string} The run numbers\n     */\n    getRunNumbers() {\n        return this.runNumbers;\n    }\n\n    /**\n     * Getter for the currently selected page\n     * @returns {Number} The currently selected page\n     */\n    getSelectedPage() {\n        return this.selectedPage;\n    }\n\n    /**\n     * Get the field values that will be exported\n     * @returns {Array} the field objects of the current export being created\n     */\n    getSelectedRunsFields() {\n        return this.selectedRunsFields;\n    }\n\n    /**\n     * Get the run numbers of the runs that will be exported\n     * @returns {Array} the field objects of the current export being created\n     */\n    getSelectedRunNumbers() {\n        return this.selectedRunNumbers;\n    }\n\n    /**\n     * Get the output format of the export\n     * @returns {Array} the field objects of the current export being created\n     */\n    getSelectedExportType() {\n        return this.selectedExportType;\n    }\n\n    /**\n     * Returns all filtering, sorting and pagination settings to their default values\n     * @param {Boolean} fetch Whether to refetch all logs after filters have been reset\n     * @return {undefined}\n     */\n    resetLogsParams(fetch = true) {\n        this.expandedFilters = [];\n\n        this.sortingColumn = '';\n        this.sortingOperation = '';\n        this.sortingPreviewColumn = '';\n        this.sortingPreviewOperation = '';\n\n        this.amountDropdownVisible = false;\n        this.logsPerPage = 10;\n        this.selectedPage = 1;\n        this.totalPages = 1;\n\n        if (fetch) {\n            this.fetchAllLogs();\n        }\n    }\n\n    /**\n     * Checks if any filter value has been modified from their default (empty)\n     * @returns {Boolean} If any filter is active\n     */\n    isAnyFilterActive() {\n        return false;\n    }\n\n    /**\n     * Toggle the expansion state (visibility) of a filter menu\n     * @param {String} targetKey The key of the filter whose visibility should be toggled\n     * @returns {undefined}\n     */\n    toggleFilterExpanded(targetKey) {\n        if (this.isFilterExpanded(targetKey)) {\n            this.expandedFilters = this.expandedFilters.filter((key) => key !== targetKey);\n        } else {\n            this.expandedFilters.push(targetKey);\n        }\n        this.notify();\n    }\n\n    /**\n     * Check if a certain filter should be expanded (visible)\n     * @param {String} targetKey The key of the filter whose visibility should be checked\n     * @returns {Boolean} Whether the provided filter is expanded or not\n     */\n    isFilterExpanded(targetKey) {\n        return this.expandedFilters.includes(targetKey);\n    }\n\n    /**\n     * Getter for total pages\n     * @returns {Number} Returns the total amount of pages available for the page selector\n     */\n    getTotalPages() {\n        return this.totalPages;\n    }\n\n    /**\n     * Toggles the visibility of the menu within the run amounts dropdown\n     * @return {Boolean} The new state of the amounts dropdown\n     */\n    toggleRunsDropdownVisible() {\n        this.amountDropdownVisible = !this.amountDropdownVisible;\n        this.notify();\n    }\n\n    /**\n     * Sets how many runs are visible per a page, in accordance with the page selector\n     * @param {Number} amount The amount of runs that should be shown per page\n     * @return {Number} The first page of the new runs, totalling the amount set by the user\n     */\n    setRunsPerPage(amount) {\n        if (this.runsPerPage !== amount) {\n            if (amount === Infinity) {\n                this.infiniteScrollEnabled = true;\n                // Set step for incremental loading\n                this.runsPerPage = 19;\n            } else {\n                this.infiniteScrollEnabled = false;\n                this.runsPerPage = amount;\n            }\n            this.selectedPage = 1;\n            this.fetchAllRuns();\n        }\n\n        this.amountDropdownVisible = false;\n    }\n\n    /**\n     * Set the runNumbers parameter of the current export being created\n     * @param {string} selectedRunNumbers Received string from the view\n     * @return {void}\n     */\n    setSelectedRunNumbers(selectedRunNumbers) {\n        this.selectedRunNumbers = selectedRunNumbers;\n        this.notify();\n    }\n\n    /**\n     * Set the export type parameter of the current export being created\n     * @param {string} selectedExportType Received string from the view\n     * @return {void}\n     */\n    setSelectedExportType(selectedExportType) {\n        this.selectedExportType = selectedExportType;\n        this.notify();\n    }\n\n    /**\n     * Saves custom per page value\n     * @param {Number} amount The amount of runs that should be shown per page\n     * @see perPageAmountInputComponent\n     * @return {void}\n     */\n    setCustomPerPage(amount) {\n        this.customPerPage = amount;\n    }\n\n    /**\n     * Sets the page chosen through the page selector for usage in pagination, and re-fetches data based on this\n     * @param {Number} page The chosen page number\n     * @return {Number} The chosen page number\n     */\n    setSelectedPage(page) {\n        if (this.selectedPage !== page) {\n            this.selectedPage = page;\n            this.fetchAllRuns();\n            this.notify();\n        }\n    }\n\n    /**\n     * Updates the selected fields ID array according to the HTML attributes of the options\n     * @param {HTMLCollection} selectedOptions The currently selected fields by the user,\n     * according to HTML specification\n     * @returns {undefined}\n     */\n    setSelectedRunsFields(selectedOptions) {\n        this.selectedRunsFields = [];\n        [...selectedOptions].map((selectedOption) =>\n            this.selectedRunsFields.push(selectedOption.value));\n        this.notify();\n    }\n\n    /**\n     * Sets all data related to a run to their defaults.\n     * @returns {undefined}\n     */\n    clearRun() {\n        this.run = RemoteData.NotAsked();\n        this.logsOfRun = RemoteData.NotAsked();\n        this.flpsOfRun = RemoteData.NotAsked();\n    }\n\n    /**\n     * Sets all data related to the runs to their defaults.\n     * @returns {undefined}\n     */\n    clearRuns() {\n        this.runs = RemoteData.NotAsked();\n        this.collapsedColumns = [];\n        this.collapsableColumns = [];\n\n        this.expandedFilters = [];\n\n        this.amountDropdownVisible = false;\n        this.runsPerPage = 10;\n        this.selectedPage = 1;\n        this.totalPages = 1;\n        this.infiniteScrollEnabled = false;\n\n        /**\n         * Value saved from perPageAmountInputComponent\n         * @see perPageAmountInputComponent\n         * @type {number}\n         */\n        this.customPerPage = 10;\n    }\n\n    /**\n     * Clear all editors in the model\n     * @returns {void}\n     */\n    clearAllEditors() {\n        this.tags = [];\n        this.tagsChanged = false;\n    }\n\n    /**\n     * Updates the selected tag ID array according to the HTML attributes of the options\n     * @param {HTMLCollection} selectedOptions The currently selected tags by the user, according to HTML specification\n     * @returns {void}\n     */\n    setSelectedTags(selectedOptions) {\n        const selectedTagsIds = Array.from(selectedOptions)\n            .map(({ value }) => parseInt(value, 10))\n            .sort((a, b) => a - b);\n        if (!selectedTagsIds.every((value, i) => value === this.tags[i])\n            || selectedTagsIds.length === 0) {\n            this.tags = selectedTagsIds;\n            this.tagsChanged = true;\n            this.notify();\n        }\n    }\n\n    /**\n     * Get the tag values of the current run being edited\n     * @returns {Array} the tag objects of the current run being edited\n     */\n    getSelectedTags() {\n        return this.tags;\n    }\n\n    /**\n     * Get the current state of tags: if they were changed by user or not\n     * @return {boolean} if tags were changed by user or not\n     */\n    selectedTagsChanged() {\n        return this.tagsChanged;\n    }\n\n    /**\n     * Update (overwrite) run tags\n     * @return {void}\n     */\n    async updateRunTags() {\n        const { id } = this.run.payload;\n        const tags = this.getSelectedTags();\n\n        this.run = RemoteData.loading();\n        this.notify();\n\n        const options = {\n            method: 'POST',\n            headers: {\n                Accept: 'application/json',\n                'Content-Type': 'application/json',\n            },\n            body: JSON.stringify({\n                tags,\n            }),\n        };\n        const response = await fetchClient(`/api/runs/${id}`, options);\n        const result = await response.json();\n\n        if (result.data) {\n            this.run = RemoteData.success(result.data);\n            this.tags = this.run.payload.tags.map(({ id }) => id);\n        } else {\n            RemoteData.failure(result.errors || [\n                {\n                    title: result.error,\n                    detail: result.message,\n                },\n            ]);\n        }\n        this.tagsChanged = false;\n        this.notify();\n    }\n\n    /**\n     * Returns the state of table infinite scroll mode\n     * @return {boolean} The state of table infinite scroll mode\n     */\n    isInfiniteScrollEnabled() {\n        return this.infiniteScrollEnabled;\n    }\n}\n",
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Subsystems/Details/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Subsystems/Overview/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Subsystems/Subsystems.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Tags/ActiveColumns/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Tags/Create/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Tags/Details/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Tags/Overview/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/public/views/Tags/Tags.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/attachments.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/auth.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/createpdf.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/flp.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/flps.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/home.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/logs.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/overviews.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/runs.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/settings.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/subsystems.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/tags.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/controllers/users.controller.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/middleware/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/middleware/multer.middleware.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/attachments.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/auth.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/createpdf.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/flps.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/home.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/logs.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/overviews.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/runs.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/settings.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/subsystems.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/tags.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/routers/users.router.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/utilities/appendPath.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/utilities/dtoValidator.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/server/utilities/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/attachment/CreateAttachmentUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/attachment/GetAttachmentUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/attachment/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/flp/CreateFlpUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/flp/GetAllFlpsUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/flp/GetFlpUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/flp/GetLogsByFlpUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/flp/UpdateFlpUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/flp/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/log/CreateLogUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/log/GetAllLogAttachmentsUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/log/GetAllLogsUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/log/GetLogAttachmentUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/log/GetLogTreeUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/log/GetLogUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/log/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/EndRunUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/GetAllRunsUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/GetFlpsByRunUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/GetLogsByRunUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/GetRunByRunNumberUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/GetRunUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/StartRunUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/UpdateRunTagsUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/run/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/server/GetDeployInformationUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/server/GetServerInformationUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/server/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/subsystem/CreateSubsystemUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/subsystem/DeleteSubsystemUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/subsystem/GetAllSubsystemsUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/subsystem/GetLogsBySubsystemUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/subsystem/GetSubsystemUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/subsystem/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/tag/CreateTagUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/tag/DeleteTagUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/tag/GetAllTagsUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/tag/GetLogsByTagUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/tag/GetTagUseCase.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/tag/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/user/CreateOrUpdateUser.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/usecases/user/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/utilities/Logger.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/utilities/deepmerge.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/utilities/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/lib/utilities/isPromise.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/spec/convert.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/database/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/database/utilities/QueryBuilder.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/database/utilities/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/e2e/attachments.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/e2e/flps.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/e2e/home.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/e2e/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/e2e/logs.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/e2e/runs.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/e2e/subsystems.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/e2e/tags.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/openapi.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/presentation/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/presentation/log/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/presentation/log/toTreeView.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/about/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/about/overview.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/defaults.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/flps/detail.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/flps/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/flps/overview.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/home/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/home/overview.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/logs/create.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/logs/detail.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/logs/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/logs/overview.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/runs/detail.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/runs/export.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/runs/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/runs/overview.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/subsystems/detail.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/subsystems/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/subsystems/overview.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/tags/create.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/tags/detail.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/tags/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/public/tags/overview.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/server/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/server/utilities/appendPath.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/server/utilities/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/flp/CreateFlpUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/flp/GetAllFlpsUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/flp/GetFlpUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/flp/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/log/CreateLogUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/log/GetAllLogsUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/log/GetLogUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/log/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/run/GetAllRunsUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/run/GetRunUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/run/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/server/GetDeployInformationUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/server/GetServerInformationUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/server/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/subsystem/CreateSubsystemUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/subsystem/DeleteSubsystemUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/subsystem/GetAllSubsystemsUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/subsystem/GetSubsystemUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/subsystem/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/tag/CreateTagUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/tag/DeleteTagUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/tag/GetAllTagsUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/tag/GetTagUseCase.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/usecases/tag/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/utilities/deepmerge.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/utilities/index.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    },
+    {
+        "filePath": "/home/skander/Projects/R/bookkeeping-analysis/repository/Bookkeeping/test/utilities/isPromise.test.js",
+        "messages":
+        [],
+        "errorCount": 0,
+        "warningCount": 0,
+        "fixableErrorCount": 0,
+        "fixableWarningCount": 0,
+        "usedDeprecatedRules":
+        []
+    }
+]

@@ -1,0 +1,11 @@
+module,lcom
+/lib/database/utilities/QueryBuilder.js,4
+/lib/public/views/Runs/Runs.js,3
+/lib/database/index.js,2
+/lib/database/repositories/FlpRepository.js,2
+/lib/database/repositories/LogRepository.js,2
+/lib/database/repositories/LogRunsRepository.js,2
+/lib/database/repositories/LogTagsRepository.js,2
+/lib/database/repositories/RunTagsRepository.js,2
+/lib/public/Model.js,2
+/lib/public/views/Flps/Flps.js,2
